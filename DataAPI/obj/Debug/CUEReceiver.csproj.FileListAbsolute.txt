@@ -1,0 +1,370 @@
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\csc.exe
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\System.Collections.Immutable.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\System.Reflection.Metadata.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\vbc.exe
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\VBCSCompiler.exe
+F:\projects\CUEReceiver\CUEReceiver\bin\roslyn\VBCSCompiler.exe.config
+F:\projects\CUEReceiver\CUEReceiver\bin\CUEReceiver.dll.config
+F:\projects\CUEReceiver\CUEReceiver\bin\CUEReceiver.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\CUEReceiver.pdb
+F:\projects\CUEReceiver\CUEReceiver\bin\Antlr3.Runtime.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\EntityFramework.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\EntityFramework.SqlServer.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Core.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Edm.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Data.OData.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Services.Client.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Cookies.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Facebook.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Google.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.OAuth.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Twitter.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Web.Infrastructure.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Newtonsoft.Json.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Owin.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Net.Http.Formatting.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Spatial.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Cors.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Helpers.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Http.Cors.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Http.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Http.Owin.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Http.WebHost.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Mvc.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Optimization.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Razor.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Deployment.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Razor.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\WebGrease.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Edm.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Data.OData.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Services.Client.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Net.Http.Formatting.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Spatial.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Http.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Http.Cors.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Newtonsoft.Json.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Helpers.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Http.WebHost.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Mvc.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Optimization.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Razor.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Deployment.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Razor.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Antlr3.Runtime.pdb
+F:\projects\CUEReceiver\CUEReceiver\bin\EntityFramework.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\EntityFramework.SqlServer.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Core.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Facebook.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Cookies.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.OAuth.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Google.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Twitter.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\System.Web.Http.Owin.xml
+F:\projects\CUEReceiver\CUEReceiver\bin\de\Microsoft.Data.Edm.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\es\Microsoft.Data.Edm.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\it\Microsoft.Data.Edm.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\de\Microsoft.Data.OData.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\es\Microsoft.Data.OData.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\fr\Microsoft.Data.OData.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\it\Microsoft.Data.OData.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ja\Microsoft.Data.OData.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ko\Microsoft.Data.OData.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ru\Microsoft.Data.OData.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\de\Microsoft.Data.Services.Client.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\es\Microsoft.Data.Services.Client.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\fr\Microsoft.Data.Services.Client.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\it\Microsoft.Data.Services.Client.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ja\Microsoft.Data.Services.Client.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ko\Microsoft.Data.Services.Client.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ru\Microsoft.Data.Services.Client.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\de\System.Spatial.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\es\System.Spatial.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\fr\System.Spatial.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\it\System.Spatial.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ja\System.Spatial.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ko\System.Spatial.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\ru\System.Spatial.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\zh-Hans\System.Spatial.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\bin\zh-Hant\System.Spatial.resources.dll
+F:\projects\CUEReceiver\CUEReceiver\obj\Debug\CUEReceiver.csprojResolveAssemblyReference.cache
+F:\projects\CUEReceiver\CUEReceiver\obj\Debug\CUEReceiver.dll
+F:\projects\CUEReceiver\CUEReceiver\obj\Debug\CUEReceiver.pdb
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\csc.exe
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\System.Collections.Immutable.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\vbc.exe
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\VBCSCompiler.exe
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\roslyn\VBCSCompiler.exe.config
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\CUEReceiver.dll.config
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\CUEReceiver.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\CUEReceiver.pdb
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Antlr3.Runtime.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\EntityFramework.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\EntityFramework.SqlServer.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Edm.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.OData.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Services.Client.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Google.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Web.Infrastructure.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Newtonsoft.Json.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Owin.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Net.Http.Formatting.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Spatial.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Cors.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Helpers.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.Cors.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.Owin.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.WebHost.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Mvc.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Optimization.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Razor.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Deployment.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Razor.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\WebGrease.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Edm.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.OData.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Services.Client.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Net.Http.Formatting.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Spatial.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.Cors.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Newtonsoft.Json.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Helpers.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.WebHost.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Mvc.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Optimization.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Razor.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Deployment.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Razor.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Antlr3.Runtime.pdb
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\EntityFramework.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\EntityFramework.SqlServer.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Google.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.Owin.xml
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\de\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\es\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\it\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\de\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\es\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\fr\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\it\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ja\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ko\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\ru\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\zh-Hans\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\bin\zh-Hant\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\obj\Debug\CUEReceiver.dll
+D:\Dynasoft Business Solutions\Portals\CUEReceiver\CUEReceiver\obj\Debug\CUEReceiver.pdb
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\csc.exe
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\System.Collections.Immutable.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\vbc.exe
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\VBCSCompiler.exe
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\roslyn\VBCSCompiler.exe.config
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\CUEReceiver.dll.config
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\CUEReceiver.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\CUEReceiver.pdb
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Antlr3.Runtime.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\EntityFramework.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\EntityFramework.SqlServer.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Edm.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.OData.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Services.Client.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Google.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Web.Infrastructure.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Newtonsoft.Json.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Owin.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Net.Http.Formatting.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Spatial.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Cors.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Helpers.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.Cors.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.Owin.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.WebHost.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Mvc.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Optimization.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Razor.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Deployment.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Razor.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\WebGrease.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Edm.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.OData.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Data.Services.Client.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Net.Http.Formatting.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Spatial.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.Cors.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Newtonsoft.Json.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Helpers.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.WebHost.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Mvc.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Optimization.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Razor.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Deployment.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.WebPages.Razor.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Antlr3.Runtime.pdb
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\EntityFramework.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\EntityFramework.SqlServer.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Google.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\System.Web.Http.Owin.xml
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\de\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\es\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\it\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\de\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\es\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\fr\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\it\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ja\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ko\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\ru\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\zh-Hans\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\bin\zh-Hant\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\obj\Debug\CUEReceiver.dll
+D:\Dynasoft Business Solutions\Dynasoft Portals\CUEReceiver\CUEReceiver\obj\Debug\CUEReceiver.pdb
